@@ -1,4 +1,7 @@
 ## synology-monitoring
+
+#### **NOTICE 2025-03-07:** This project has not been updated in some time and will be archived. Checkout [wallacebrf/synology_snmp](https://github.com/wallacebrf/synology_snmp)
+
 Simple shell script for capturing SNMP stats to [InfluxDB](https://docs.influxdata.com/influxdb/v1.7/) and monitoring health in [Grafana](https://grafana.com/).
 
 ![Grafana Dashboard](https://user-images.githubusercontent.com/25406580/56866768-f22a7d00-69a2-11e9-80e6-fd3145d619ac.png)
